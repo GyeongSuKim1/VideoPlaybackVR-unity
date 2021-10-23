@@ -1,7 +1,7 @@
 # VideoPlaybackVR-unity
 > This project is a VR video playback with URL.
 <p>
-  <a href="https://github.com/sangwookyoo/" target="_blank"><img src="https://img.shields.io/badge/GyeongSuKim1-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://github.com/GyeongSuKim1/" target="_blank"><img src="https://img.shields.io/badge/GyeongSuKim1-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/unity3d-2019.3.12-blue?style=flat-square&logo=unity"></a>
 </p>
 
